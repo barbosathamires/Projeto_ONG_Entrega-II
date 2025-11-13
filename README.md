@@ -1,7 +1,6 @@
 <h1>&#127793;ONG CONECTADA</h1>
 
-
-Acesse o site: https://barbosathamires.github.io/Projeto_ONG_Entrega-II
+&#127760;Acesse o site: https://barbosathamires.github.io/Projeto_ONG_Entrega-II
 
 <h1>🧰 Tecnologias Utilizadas</h1>
 <ul>
@@ -15,15 +14,21 @@ Acesse o site: https://barbosathamires.github.io/Projeto_ONG_Entrega-II
 
 <h1>📁 Estrutura do Projeto</h1>
 <p>Projeto_ONG_Entrega-II
-<p>meu-projeto-ong</p>
-<p>├── index.html</p>
-<p>├──projetos.html</p>
-<p>├── cadastro.html</p>
-<p>├── css/</p>
-<p>│   └── style.css</p> 
-<h1>&#128248;img</h1>
-<p>├── Ação-ambiental.jpg</p>
-<p>├── Crianças-estudando.jpg</p>
-<p>├── Voluntarios-trabalhando-juntos.jpg</p>
+
+<p>&#128194; index.html</p>
+<p>   └──     projetos.html<br>
+      └── 	  cadastro.html<br></p>
+      
+<p>&#128194; css</p>
+<p>     └── style.css</p>
+     
+<p>&#128194;imagens</p>
+ <p>└──  Ação-ambiental.jpg<br>
+ └──  Crianças-estudando.jpg<br>
+ └──  Voluntarios-trabalhando-juntos.jpg<br> </p>
+ 
+<p>&#128194; js</p>
+<p> └──  script.js</p>
+  
 
 
